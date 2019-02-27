@@ -1,5 +1,6 @@
 package ru.gorshckov;
 
+
 public class Course {
 
     private Obstacle [] obstacles;
