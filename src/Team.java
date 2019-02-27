@@ -1,5 +1,6 @@
 package ru.gorshckov;
 
+
 public class Team {
 
     private String nameTeam;
